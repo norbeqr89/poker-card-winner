@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CardGameProgram": {
+      "commandName": "Project",
+      "commandLineArgs": "--in\r\n--out"
+    }
+  }
+}

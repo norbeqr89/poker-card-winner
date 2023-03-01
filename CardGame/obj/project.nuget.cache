@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWZcwlxuN2YdCRWvrYaBbgsobOoBdsWZNRAGaGRyekQBHnsvjnUnx21eZ7kofUeT9/H9x6ASyo5YsqL0wEehOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\norbe\\source\\repos\\CardGame\\poker-card-winner\\CardGame\\addemupgame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\norbe\\.nuget\\packages\\commandlineargumentsparser\\3.0.23\\commandlineargumentsparser.3.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+Player  1:2 S,6 S,3C,JS,3S
+Play er2:5C,5 H,9 H,7D,8D
+Play  er3:5D,8 D,4 D,10H,7D
+Playe r4:5S,9 H,8H,10C,8S
+Player  5:8C,2 H,7 H,QC,6D
+Playe  r6:4H,J C,9C,JH,10D
+Play er 7:J S,k s,4h,10C,3C
